@@ -1,0 +1,1 @@
+Map2Demo2.mapExample2();
